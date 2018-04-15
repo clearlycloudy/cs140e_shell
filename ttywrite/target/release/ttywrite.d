@@ -1,0 +1,1 @@
+/home/yl/repo/cs140e/1-shell/ttywrite/target/release/ttywrite: /home/yl/repo/cs140e/1-shell/ttywrite/src/parsers.rs /home/yl/repo/cs140e/1-shell/xmodem/src/read_ext.rs /home/yl/repo/cs140e/1-shell/xmodem/src/progress.rs /home/yl/repo/cs140e/1-shell/ttywrite/src/main.rs /home/yl/repo/cs140e/1-shell/xmodem/src/lib.rs
